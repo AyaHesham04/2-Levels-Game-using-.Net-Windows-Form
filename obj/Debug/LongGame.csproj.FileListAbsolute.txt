@@ -1,0 +1,20 @@
+C:\Users\ASUS\OneDrive\Desktop\LongGame\bin\Debug\LongGame.exe.config
+C:\Users\ASUS\OneDrive\Desktop\LongGame\bin\Debug\LongGame.exe
+C:\Users\ASUS\OneDrive\Desktop\LongGame\bin\Debug\LongGame.pdb
+C:\Users\ASUS\OneDrive\Desktop\LongGame\obj\Debug\LongGame.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\LongGame\obj\Debug\LongGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Desktop\LongGame\obj\Debug\LongGame.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\LongGame\obj\Debug\LongGame.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\LongGame\obj\Debug\LongGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\LongGame\obj\Debug\LongGame.exe
+C:\Users\ASUS\OneDrive\Desktop\LongGame\obj\Debug\LongGame.pdb
+C:\Users\ASUS\OneDrive\Desktop\LongGame (2)\LongGame\bin\Debug\LongGame.exe.config
+C:\Users\ASUS\OneDrive\Desktop\LongGame (2)\LongGame\bin\Debug\LongGame.exe
+C:\Users\ASUS\OneDrive\Desktop\LongGame (2)\LongGame\bin\Debug\LongGame.pdb
+C:\Users\ASUS\OneDrive\Desktop\LongGame (2)\LongGame\obj\Debug\LongGame.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\LongGame (2)\LongGame\obj\Debug\LongGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Desktop\LongGame (2)\LongGame\obj\Debug\LongGame.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\LongGame (2)\LongGame\obj\Debug\LongGame.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\LongGame (2)\LongGame\obj\Debug\LongGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\LongGame (2)\LongGame\obj\Debug\LongGame.exe
+C:\Users\ASUS\OneDrive\Desktop\LongGame (2)\LongGame\obj\Debug\LongGame.pdb
